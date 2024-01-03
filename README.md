@@ -22,3 +22,6 @@ Please read the syllabus (in this directory) for workshop details. **If you have
 
 # Example of some R code
 `print("Hello world")`
+
+# Just an edit im making and then git pulling
+print("Ola")
